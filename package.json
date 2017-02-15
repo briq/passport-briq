@@ -1,0 +1,29 @@
+{
+  "name": "passport-briq",
+  "version": "0.0.1",
+  "description": "A passport strategy to authenticate with Briq",
+  "main": "lib/",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/briq/passport-briq.git"
+  },
+  "keywords": [
+    "briq",
+    "passport",
+    "passportjs",
+    "oauth",
+    "oauth2"
+  ],
+  "author": "Laurent VB",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/briq/passport-briq/issues"
+  },
+  "homepage": "https://github.com/briq/passport-briq#readme",
+  "dependencies": {
+    "passport-oauth2": "^1.4.0"
+  }
+}
